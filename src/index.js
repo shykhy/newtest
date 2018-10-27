@@ -1,9 +1,9 @@
 import dva from 'dva';
 import './index.css';
 
- win update:
- aa
-
+mac update:
+this
+how are you 
 // 1. Initialize
 const app = dva();   
 
