@@ -1,7 +1,8 @@
 import dva from 'dva';
 import './index.css';
 
-mac update:
+
+win update:
 this
 how are you 
 // 1. Initialize
