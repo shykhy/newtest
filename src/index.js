@@ -14,4 +14,4 @@ const app = dva();
 app.router(require('./router').default);
  
 // 5. Start
-app.start('#root');
+app.start('#root');  
