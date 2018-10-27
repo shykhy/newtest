@@ -3,32 +3,13 @@ import './index.css';
 
 win update sssssss
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- asasas
-sas
-mac update:
-this as
-how are you
-
-this is key sy
+how are you 
+sas update:
 
 
 // 1. Initialize
 const app = dva();   
-hhh
+hhhasas
 // 2. Plugins
 // app.use({}); 
 
@@ -42,5 +23,5 @@ app.router(require('./router').default);
  
 // 5. Start
 app.start('#root');
-
-last one
+last onea
+asas
