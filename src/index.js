@@ -1,7 +1,7 @@
 import dva from 'dva';
 import './index.css';
 
-win update sssssss
+win update sssssss 
 // 1. Initialize
 const app = dva();   
 // 2. Plugins
